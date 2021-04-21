@@ -1,0 +1,20 @@
+﻿:root{
+    --backgroundColor : #3E6271;
+}
+
+body
+{
+    background-color  : var(--backgroundColor);
+}
+
+#Header {
+    border-style: solid;
+    border-width: 2px 5px 12px;
+    padding: 10px;
+}
+
+p {
+    border-style: solid;
+    border-width: 0 0 2px 0;
+}
+

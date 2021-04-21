@@ -1,5 +1,5 @@
 ﻿:root{
-    --backgroundColor : #3E6271;
+    --backgroundColor : #00ABF0;
 }
 
 body
@@ -13,7 +13,11 @@ body
     padding: 10px;
 }
 
-p {
+#Selectables {
+    margin: 40px
+}
+
+h3 {
     border-style: solid;
     border-width: 0 0 2px 0;
 }
